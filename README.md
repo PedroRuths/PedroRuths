@@ -1,4 +1,14 @@
-### Hi there 👋
+### Olá 👋
+
+
+_Bem vindo ao meu perfil_ 😄
+
+
+-Estudante do Colégio Estadual Laranjeiras
+
+-Turma: 2 B
+
+-
 
 <!--
 **PedroRuths/PedroRuths** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
