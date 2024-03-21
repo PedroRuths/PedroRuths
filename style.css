@@ -1,0 +1,15 @@
+.cabecario {
+    background-color: #fdfdfd;
+    color: rgb(0, 0, 0);
+    display:flex; 
+    justify-content:space-around;
+}
+
+.logo{
+    width: 90%;
+
+}
+.nomes {
+    display:inline-block;
+    margin: 95 16px;
+}
