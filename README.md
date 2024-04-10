@@ -1,3 +1,4 @@
 ✨ Seja bem vindo ao meu perfil✨ 
-## sou o Pedro Ruths
-Atualmente estou na 2 B
+-Sou o Pedro Ruths
+-Estudo no Colégio Estadual Laranjeiras do SUl
+-Atualmente no 2 B
