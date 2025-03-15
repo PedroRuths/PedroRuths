@@ -6,4 +6,5 @@
 
 -Estudo no Colégio Estadual Laranjeiras do Sul
 
--Atualmente no 2 B
+-Atualmente no 3 B
+
